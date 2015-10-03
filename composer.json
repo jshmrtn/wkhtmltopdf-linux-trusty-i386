@@ -1,0 +1,20 @@
+{
+    "name": "jshmrtn/wkhtmltopdf-linux-trusty-i386",
+    "description": "wkhtmltopdf | Linux (Ubuntu) | Trusty (14.04) | 32bit",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Jeremy J. Zahner",
+            "email": "zahner@joshmartin.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-linux-trusty-i386",
+        "bin/wkhtmltoimage-linux-trusty-i386"
+    ],
+    "require": {
+    }
+}
