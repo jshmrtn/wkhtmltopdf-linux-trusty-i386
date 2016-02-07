@@ -8,7 +8,7 @@ More about the functionality of wkhtmltopdf and wkthmltoimage can be found there
 
 _Hint_:
 The version of the binary is equal to the git tag.
-To install the latest version, use '0.12.2.1'.
+To install the latest version, use '0.12.3'.
 
 In case this package does _not_ work on your system, try installing the matching system packages from here: [http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html).
 
@@ -16,7 +16,7 @@ In case this package does _not_ work on your system, try installing the matching
 
 This package can be found on [Packagist](http://packagist.org) and installed with [Composer](https://getcomposer.org/).
 
-    php composer.phar require jshmrtn/wkhtmltopdf-linux-trusty-amd64 "0.12.2.1"
+    php composer.phar require jshmrtn/wkhtmltopdf-linux-trusty-amd64 "0.12.3"
 
 The binaries will then be located at:
 
@@ -27,4 +27,3 @@ Also a symlink will be created in your configured bin/ folder, for example:
 
     vendor/bin/wkhtmltopdf-linux-trusty-amd64
     vendor/bin/wkhtmltoimage-linux-trusty-amd64
-
