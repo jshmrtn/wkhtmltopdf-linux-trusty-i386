@@ -20,8 +20,8 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
 The binaries will then be located at:
 
-    vendor/jshmrtn/wkhtmltopdf-linux-trusty-amd64/bin/wkhtmltopdf-linux-trusty-i386
-    vendor/jshmrtn/wkhtmltopdf-linux-trusty-amd64/bin/wkhtmltoimage-linux-trusty-i386
+    vendor/jshmrtn/wkhtmltopdf-linux-trusty-i386/bin/wkhtmltopdf-linux-trusty-i386
+    vendor/jshmrtn/wkhtmltopdf-linux-trusty-i386/bin/wkhtmltoimage-linux-trusty-i386
 
 Also a symlink will be created in your configured bin/ folder, for example:
 
